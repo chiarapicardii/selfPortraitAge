@@ -10,6 +10,3 @@ Project for the Information Visualization course, University of Bologna, a.y. 20
 ## Data sources
 - [ArtResearch](https://artresearch.net/) SPARQL endpoint
 - [Wikidata](https://www.wikidata.org/) SPARQL endpoint
-
-## Interpretation
-Self-portraiture remained a predominantly youthful practice, but the average age of self-portrait production rose steadily after 1850 coinciding with the emergence of modern art movements.
