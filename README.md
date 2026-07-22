@@ -4,8 +4,8 @@ Project for the Information Visualization course, University of Bologna, a.y. 20
 
 ## Repository structure
 - `SelfPortraitsAverageAge.ipynb` — full data pipeline: SPARQL queries (ArtResearch + Wikidata), cleaning, exploratory analysis, and iterative chart design
-- `slide/` — final take-home slide (image/HTML)
-- `data/` — intermediate and cleaned datasets (CSV/JSON)
+- `slide/` — final slide
+- `data/` — intermediate and cleaned datasets
 
 ## Data sources
 - [ArtResearch](https://artresearch.net/) SPARQL endpoint (CIDOC-CRM / Pathos data model)
