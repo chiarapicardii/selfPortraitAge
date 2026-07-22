@@ -1,4 +1,4 @@
-# Self-Portrait Age: The Age Evolution of Self-Portraits (1800-1940)
+# Self-Portrait Age: The Age Evolution of Self-Portraits
 
 Project for the Information Visualization course, University of Bologna, a.y. 2025/2026.
 
