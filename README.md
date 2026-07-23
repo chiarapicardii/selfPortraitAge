@@ -6,6 +6,7 @@ Project for the Information Visualization course, University of Bologna, a.y. 20
 - `SelfPortraitsAverageAge.ipynb`- full data pipeline and documentation.
 - `slide/`- final slide.
 - `data/`- intermediate and cleaned datasets.
+- `visualizations/`- the intermediate and final graphs produced in the colab documentation
 
 ## Data sources
 - [ArtResearch](https://artresearch.net/) SPARQL endpoint
